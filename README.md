@@ -5,7 +5,7 @@ KELAS : TI.20.B1
 
 NIM   : 312010277
 
-
+![alt text](?raw=true)
 
 activity_main_drawer.xml
 <?xml version="1.0" encoding="utf-8"?>
