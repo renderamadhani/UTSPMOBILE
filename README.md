@@ -5,7 +5,7 @@ KELAS : TI.20.B1
 
 NIM   : 312010277
 
-![alt text](?raw=true)
+![alt text](https://github.com/renderamadhani/UTSPMOBILE/blob/main/Screenshot%202023-08-19%20094126.png?raw=true)
 
 activity_main_drawer.xml
 <?xml version="1.0" encoding="utf-8"?>
